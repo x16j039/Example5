@@ -10,6 +10,8 @@ namespace Example5
     {
         static void Main(string[] args)
         {
+            int x;
+            int y;
         }
     }
 }
